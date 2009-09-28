@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<!-- EN-Revision: 283803 Maintainer: felipe Status: ready -->
+<!-- EN-Revision: 288721 Maintainer: felipe Status: ready -->
 
 <book xml:id="book.ctype" xmlns="http://docbook.org/ns/docbook">
  <title>&Functions; pra verificação de tipo de caractere</title>
@@ -56,7 +56,7 @@ sgml-indent-step:1
 sgml-indent-data:t
 indent-tabs-mode:nil
 sgml-parent-document:nil
-sgml-default-dtd-file:"../../../manual.ced"
+sgml-default-dtd-file:"~/.phpdoc/manual.ced"
 sgml-exposed-tags:nil
 sgml-local-catalogs:nil
 sgml-local-ecat-files:nil
